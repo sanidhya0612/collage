@@ -1,0 +1,50 @@
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background-color: lightblue;
+    width: 100%;
+}
+
+#heroo
+{
+    font-size: 60px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+}
+
+#heri
+{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: initial;
+}
+
+#camera
+{
+    height: 300px;
+    width:500px;
+    border: 2px;
+    border-radius: 2px;
+    border-color: black;
+
+}
+
+img
+{
+    height:300px;
+    width:500px;
+    border-radius: 2px;
+    box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+    border-color: black;
+    margin-bottom: 10px;
+    border:10px;
+    
+}
+
+img:hover
+{
+    border-radius: 140px;
+}
